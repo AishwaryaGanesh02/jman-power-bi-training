@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "assessment-crb"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "569da207-4c74-46b8-a2c9-668e7da99583"
+  }
+}
