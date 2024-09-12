@@ -2449,6 +2449,16 @@
                       "Type": "Noun",
                       "Weight": 0.461
                     }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2482,6 +2492,16 @@
                       "Type": "Noun",
                       "Weight": 0.582
                     }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2514,6 +2534,16 @@
                       "State": "Suggested",
                       "Type": "Noun",
                       "Weight": 0.582
+                    }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -2587,6 +2617,16 @@
                       "Type": "Noun",
                       "Weight": 0.582
                     }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2619,6 +2659,16 @@
                       "State": "Suggested",
                       "Type": "Noun",
                       "Weight": 0.582
+                    }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -2653,6 +2703,149 @@
                       "Type": "Noun",
                       "Weight": 0.582
                     }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "measure.count_new_customers": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "measure",
+                    "ConceptualProperty": "count_New_Customers"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "count new customers": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "count_New_Customers": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "amount new customer": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "count new clientele": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "count new patron": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "count new client": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "count new consumer": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "count new punter": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.508
+                    }
+                  },
+                  {
+                    "count new regular": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.492
+                    }
+                  },
+                  {
+                    "count new custom": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.492
+                    }
+                  },
+                  {
+                    "count new trade": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.492
+                    }
+                  },
+                  {
+                    "count new business": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.492
+                    }
+                  },
+                  {
+                    "New Customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2685,6 +2878,16 @@
                       "State": "Suggested",
                       "Type": "Noun",
                       "Weight": 0.582
+                    }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -2719,6 +2922,16 @@
                       "Type": "Noun",
                       "Weight": 0.582
                     }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2752,6 +2965,16 @@
                       "Type": "Noun",
                       "Weight": 0.727
                     }
+                  },
+                  {
+                    "Total customers": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2775,6 +2998,16 @@
                       "Type": "Noun",
                       "Weight": 0.99
                     }
+                  },
+                  {
+                    "Cross sell": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2797,6 +3030,16 @@
                       "State": "Generated",
                       "Type": "Noun",
                       "Weight": 0.99
+                    }
+                  },
+                  {
+                    "Customer churn": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -2850,6 +3093,16 @@
                       "Type": "Noun",
                       "Weight": 0.99
                     }
+                  },
+                  {
+                    "Downsell": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2872,6 +3125,16 @@
                       "State": "Generated",
                       "Type": "Noun",
                       "Weight": 0.99
+                    }
+                  },
+                  {
+                    "EOP": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -2896,6 +3159,16 @@
                       "Type": "Noun",
                       "Weight": 0.99
                     }
+                  },
+                  {
+                    "GRR": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2919,6 +3192,16 @@
                       "Type": "Noun",
                       "Weight": 0.99
                     }
+                  },
+                  {
+                    "New Customer": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -2941,6 +3224,16 @@
                       "State": "Generated",
                       "Type": "Noun",
                       "Weight": 0.99
+                    }
+                  },
+                  {
+                    "NRR": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -3024,6 +3317,16 @@
                       "State": "Suggested",
                       "Type": "Noun",
                       "Weight": 0.461
+                    }
+                  },
+                  {
+                    "Upsell": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -3592,6 +3895,16 @@
                       "State": "Suggested",
                       "Type": "Noun",
                       "Weight": 0.591
+                    }
+                  },
+                  {
+                    "Product": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
                     }
                   }
                 ]
@@ -7206,6 +7519,39 @@
                 },
                 "State": "Generated"
               },
+              "snowball_output_has_measure_count_new_customers": {
+                "Binding": {
+                  "ConceptualEntity": "snowball_output"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "measure.count_new_customers"
+                      },
+                      "Subject": {
+                        "Role": "snowball_output"
+                      }
+                    },
+                    "ID": "snowball_outputs_have_count_new_customers",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "measure.count_new_customers": {
+                    "Target": {
+                      "Entity": "measure.count_new_customers"
+                    }
+                  },
+                  "snowball_output": {
+                    "Target": {
+                      "Entity": "snowball_output"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
               "snowball_output_has_measure_count_newcustomer": {
                 "Binding": {
                   "ConceptualEntity": "snowball_output"
@@ -8533,6 +8879,7 @@
             "isDataTypeInferred": true,
             "isNameInferred": true,
             "lineageTag": "8c5d5c8b-4291-464c-bf27-abc1b4aa9a05",
+            "sortByColumn": "MonthNo",
             "sourceColumn": "[Month]",
             "summarizeBy": "none",
             "type": "calculatedTableColumn"
@@ -9273,7 +9620,7 @@
               "RETURN",
               "IF(",
               "    TotalBOP <> 0,",
-              "    (TotalValue / TotalBOP) * 100,",
+              "    (TotalValue / TotalBOP) * -100,",
               "    0",
               ")"
             ],
@@ -9294,7 +9641,7 @@
               "RETURN",
               "IF(",
               "    TotalBOP <> 0,",
-              "    (TotalValue / TotalBOP) * 100,",
+              "    (TotalValue / TotalBOP) * -100,",
               "    0",
               ")"
             ],
@@ -9315,7 +9662,7 @@
               "RETURN",
               "IF(",
               "    TotalBOP <> 0,",
-              "    (TotalValue / TotalBOP) * 100,",
+              "    (TotalValue / TotalBOP) * -100,",
               "    0",
               ")"
             ],
@@ -9413,6 +9760,25 @@
             ],
             "formatString": "0",
             "lineageTag": "be5843af-90fc-49e0-ab48-649f13f4bf54"
+          },
+          {
+            "name": "count_New_Customers",
+            "expression": [
+              "",
+              "CALCULATE(",
+              "    DISTINCTCOUNT(snowball_output[customer_key]),",
+              "    FILTER(",
+              "        snowball_output,",
+              "        snowball_output[month_roll] = ",
+              "            CALCULATE(",
+              "                MIN(snowball_output[month_roll]),",
+              "                ALLEXCEPT(snowball_output, snowball_output[customer_key])",
+              "            )",
+              "    )",
+              ")"
+            ],
+            "formatString": "0",
+            "lineageTag": "124b4c49-cdeb-4adc-9499-b2620e324c0e"
           }
         ],
         "partitions": [
