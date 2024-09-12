@@ -40,12 +40,6 @@
                     }
                   },
                   {
-                    "calendar": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "almanac": {
                       "Source": {
                         "Agent": "Thesaurus"
@@ -133,26 +127,7 @@
                     }
                   },
                   {
-                    "EOW - saturday": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "EOW saturday": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "EOW saturday": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "saturday": {
                       "State": "Generated",
                       "Weight": 0.97
                     }
@@ -160,7 +135,6 @@
                   {
                     "saturday": {
                       "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   }
@@ -184,21 +158,8 @@
                     }
                   },
                   {
-                    "EOW - saturday date hierarchy": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "date hierarchy": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "date hierarchy": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -209,22 +170,8 @@
                     }
                   },
                   {
-                    "EOW saturday date hierarchy": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
                     "saturday date hierarchy": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "saturday date hierarchy": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   }
@@ -249,37 +196,12 @@
                     }
                   },
                   {
-                    "EOW - saturday day": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "day": {
                       "State": "Generated"
                     }
                   },
                   {
-                    "day": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "EOW saturday day": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "EOW saturday day": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "saturday day": {
                       "State": "Generated",
                       "Weight": 0.97
                     }
@@ -287,7 +209,6 @@
                   {
                     "saturday day": {
                       "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   }
@@ -312,37 +233,12 @@
                     }
                   },
                   {
-                    "EOW - saturday month": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "month": {
                       "State": "Generated"
                     }
                   },
                   {
-                    "month": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "EOW saturday month": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "EOW saturday month": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "saturday month": {
                       "State": "Generated",
                       "Weight": 0.97
                     }
@@ -350,7 +246,6 @@
                   {
                     "saturday month": {
                       "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -415,37 +310,12 @@
                     }
                   },
                   {
-                    "EOW - saturday quarter": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "quarter": {
                       "State": "Generated"
                     }
                   },
                   {
-                    "quarter": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "EOW saturday quarter": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "EOW saturday quarter": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "saturday quarter": {
                       "State": "Generated",
                       "Weight": 0.97
                     }
@@ -453,7 +323,6 @@
                   {
                     "saturday quarter": {
                       "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -518,37 +387,12 @@
                     }
                   },
                   {
-                    "EOW - saturday year": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "year": {
                       "State": "Generated"
                     }
                   },
                   {
-                    "year": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "EOW saturday year": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "EOW saturday year": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "saturday year": {
                       "State": "Generated",
                       "Weight": 0.97
                     }
@@ -556,7 +400,6 @@
                   {
                     "saturday year": {
                       "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -617,12 +460,6 @@
                     }
                   },
                   {
-                    "YM int": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "YMInt": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -644,12 +481,6 @@
                   {
                     "date": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "date": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -691,13 +522,6 @@
                       "State": "Generated",
                       "Weight": 0.97
                     }
-                  },
-                  {
-                    "date hierarchy": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
                   }
                 ]
               },
@@ -720,20 +544,8 @@
                     }
                   },
                   {
-                    "day": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "date day": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "date day": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -777,20 +589,8 @@
                     }
                   },
                   {
-                    "month": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "date month": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "date month": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -854,20 +654,8 @@
                     }
                   },
                   {
-                    "quarter": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "date quarter": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "date quarter": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -931,20 +719,8 @@
                     }
                   },
                   {
-                    "year": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "date year": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "date year": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1004,12 +780,6 @@
                     }
                   },
                   {
-                    "date as integer": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "DateAsInteger": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1025,13 +795,6 @@
                   {
                     "as integer": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "as integer": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -1124,11 +887,6 @@
                       "Type": "Noun",
                       "Weight": 0.476
                     }
-                  },
-                  {
-                    "integer": {
-                      "State": "Generated"
-                    }
                   }
                 ]
               },
@@ -1144,12 +902,6 @@
                   {
                     "day month": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "day month": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1186,12 +938,6 @@
                     }
                   },
                   {
-                    "day no": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "DayNo": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1225,12 +971,6 @@
                     }
                   },
                   {
-                    "month": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "mth": {
                       "Source": {
                         "Agent": "Thesaurus"
@@ -1254,12 +994,6 @@
                   {
                     "month no": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "month no": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1306,12 +1040,6 @@
                     }
                   },
                   {
-                    "month text": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "MonthText": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1321,13 +1049,6 @@
                   {
                     "text": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "text": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -1448,12 +1169,6 @@
                     }
                   },
                   {
-                    "month year": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "MonthYear": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1494,12 +1209,6 @@
                   {
                     "quarter year": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "quarter year": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1546,12 +1255,6 @@
                     }
                   },
                   {
-                    "week no": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "WeekNo": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1582,12 +1285,6 @@
                   {
                     "weekday": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "weekday": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1647,12 +1344,6 @@
                     }
                   },
                   {
-                    "weekday no": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "WeekdayNo": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1686,12 +1377,6 @@
                     }
                   },
                   {
-                    "year": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "yr": {
                       "Source": {
                         "Agent": "Thesaurus"
@@ -1715,12 +1400,6 @@
                   {
                     "year & month": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "year & month": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1760,12 +1439,6 @@
                     }
                   },
                   {
-                    "year less 1": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "yr less 1": {
                       "Source": {
                         "Agent": "Thesaurus"
@@ -1789,12 +1462,6 @@
                   {
                     "year month": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "year month": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1837,12 +1504,6 @@
                   {
                     "customer": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "customer": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -1932,12 +1593,6 @@
                     }
                   },
                   {
-                    "customer country": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "customer_country": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -1947,13 +1602,6 @@
                   {
                     "country": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "country": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -2075,21 +1723,8 @@
                     }
                   },
                   {
-                    "customer id": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "id": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "id": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -2217,12 +1852,6 @@
                     }
                   },
                   {
-                    "customer key": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "customer_key": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -2232,13 +1861,6 @@
                   {
                     "key": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "key": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -2360,21 +1982,8 @@
                     }
                   },
                   {
-                    "customer name": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "name": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "name": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -2502,13 +2111,7 @@
                     }
                   },
                   {
-                    "customer region": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
-                    "customer_region ": {
+                    "customer_region": {
                       "State": "Generated",
                       "Type": "Noun",
                       "Weight": 0.99
@@ -2518,26 +2121,6 @@
                     "region": {
                       "State": "Generated",
                       "Weight": 0.97
-                    }
-                  },
-                  {
-                    "region": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "customer_region": {
-                      "State": "Generated",
-                      "Weight": 0.96029999999999993
-                    }
-                  },
-                  {
-                    "customer_region": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.96029999999999993
                     }
                   },
                   {
@@ -2657,12 +2240,6 @@
                     }
                   },
                   {
-                    "dimension 1": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "dimension_1": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -2682,12 +2259,6 @@
                   {
                     "measure": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "measure": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -2767,12 +2338,6 @@
                     }
                   },
                   {
-                    "count bop": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "count_bop": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -2782,13 +2347,6 @@
                   {
                     "bop": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "bop": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -2909,12 +2467,6 @@
                     }
                   },
                   {
-                    "count crosssell": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "count_crosssell": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -2945,12 +2497,6 @@
                   {
                     "count cusrtomerchurn": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "count cusrtomerchurn": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -2987,12 +2533,6 @@
                     }
                   },
                   {
-                    "count downgrade": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "count_downgrade": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3002,13 +2542,6 @@
                   {
                     "downgrade": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "downgrade": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -3036,12 +2569,6 @@
                   {
                     "count downsell": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "count downsell": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3078,12 +2605,6 @@
                     }
                   },
                   {
-                    "count eop": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "count_eop": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3114,12 +2635,6 @@
                   {
                     "count grr": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "count grr": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3156,12 +2671,6 @@
                     }
                   },
                   {
-                    "count newcustomer": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "count_newcustomer": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3192,12 +2701,6 @@
                   {
                     "count nrr": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "count nrr": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3234,12 +2737,6 @@
                     }
                   },
                   {
-                    "count upsell": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "count_upsell": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3273,12 +2770,6 @@
                     }
                   },
                   {
-                    "percent crosssell": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "percent_crosssell": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3299,12 +2790,6 @@
                   {
                     "percent customerchurn": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "percent customerchurn": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3331,12 +2816,6 @@
                     }
                   },
                   {
-                    "percent downgrade": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "percent_downgrade": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3346,13 +2825,6 @@
                   {
                     "downgrade": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "downgrade": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   }
@@ -3370,12 +2842,6 @@
                   {
                     "percent downsell": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "percent downsell": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3402,12 +2868,6 @@
                     }
                   },
                   {
-                    "percent eop": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "percent_eop": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3428,12 +2888,6 @@
                   {
                     "percent grr": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "percent grr": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3460,12 +2914,6 @@
                     }
                   },
                   {
-                    "percent newcustomer": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "percent_newcustomer": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3489,12 +2937,6 @@
                     }
                   },
                   {
-                    "percent nrr": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "percent_nrr": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3515,12 +2957,6 @@
                   {
                     "percent upsell": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "percent upsell": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3604,12 +3040,6 @@
                   {
                     "value": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "value": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -3728,12 +3158,6 @@
                     }
                   },
                   {
-                    "product": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "artifact": {
                       "Source": {
                         "Agent": "Thesaurus"
@@ -3790,12 +3214,6 @@
                     }
                   },
                   {
-                    "product key": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "product_key": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3805,13 +3223,6 @@
                   {
                     "key": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "key": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -3932,12 +3343,6 @@
                     }
                   },
                   {
-                    "product level 1": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "product_level_1": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -3947,13 +3352,6 @@
                   {
                     "level 1": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "level 1": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4056,6 +3454,16 @@
                       "Type": "Noun",
                       "Weight": 0.591
                     }
+                  },
+                  {
+                    "Product / Service": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
                   }
                 ]
               },
@@ -4074,12 +3482,6 @@
                     }
                   },
                   {
-                    "product level 2": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "product_level_2": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4089,13 +3491,6 @@
                   {
                     "level 2": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "level 2": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4216,12 +3611,6 @@
                     }
                   },
                   {
-                    "revenue type": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "revenue_type": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4231,13 +3620,6 @@
                   {
                     "type": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "type": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4357,12 +3739,6 @@
                     }
                   },
                   {
-                    "snowball output": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "snowball_output": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4372,13 +3748,6 @@
                   {
                     "output": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "output": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4499,12 +3868,6 @@
                     }
                   },
                   {
-                    "bop arr": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "bop_arr": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4528,12 +3891,6 @@
                     }
                   },
                   {
-                    "cross sell": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "cross_sell": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4543,13 +3900,6 @@
                   {
                     "sell": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "sell": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4600,12 +3950,6 @@
                     }
                   },
                   {
-                    "customer churn": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "customer_churn": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4615,13 +3959,6 @@
                   {
                     "churn": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "churn": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4712,12 +4049,6 @@
                     }
                   },
                   {
-                    "customer key": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "customer_key": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4727,13 +4058,6 @@
                   {
                     "key": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "key": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -4855,12 +4179,6 @@
                     "downsell": {
                       "State": "Generated"
                     }
-                  },
-                  {
-                    "downsell": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
                   }
                 ]
               },
@@ -4876,12 +4194,6 @@
                   {
                     "eop arr": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "eop arr": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   },
                   {
@@ -4906,12 +4218,6 @@
                     "grr": {
                       "State": "Generated"
                     }
-                  },
-                  {
-                    "grr": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
                   }
                 ]
               },
@@ -4931,12 +4237,6 @@
                     }
                   },
                   {
-                    "month roll": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "month_roll": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -4950,22 +4250,8 @@
                     }
                   },
                   {
-                    "date": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.7
-                    }
-                  },
-                  {
                     "roll": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "roll": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -5076,12 +4362,6 @@
                     }
                   },
                   {
-                    "new customer": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "new_customer": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -5173,12 +4453,6 @@
                     "nrr": {
                       "State": "Generated"
                     }
-                  },
-                  {
-                    "nrr": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
                   }
                 ]
               },
@@ -5197,12 +4471,6 @@
                     }
                   },
                   {
-                    "period type": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "period_type": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -5212,13 +4480,6 @@
                   {
                     "type": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "type": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -5339,12 +4600,6 @@
                     }
                   },
                   {
-                    "product churn": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "product_churn": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -5354,13 +4609,6 @@
                   {
                     "churn": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "churn": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -5421,12 +4669,6 @@
                     }
                   },
                   {
-                    "product key": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "product_key": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -5436,13 +4678,6 @@
                   {
                     "key": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "key": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -5566,12 +4801,6 @@
                     }
                   },
                   {
-                    "snowball key": {
-                      "State": "Generated",
-                      "Type": "Noun"
-                    }
-                  },
-                  {
                     "snowball_key": {
                       "State": "Generated",
                       "Type": "Noun",
@@ -5581,13 +4810,6 @@
                   {
                     "key": {
                       "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "key": {
-                      "State": "Generated",
-                      "Type": "Noun",
                       "Weight": 0.97
                     }
                   },
@@ -5705,12 +4927,6 @@
                   {
                     "upsell": {
                       "State": "Generated"
-                    }
-                  },
-                  {
-                    "upsell": {
-                      "State": "Generated",
-                      "Type": "Noun"
                     }
                   }
                 ]
